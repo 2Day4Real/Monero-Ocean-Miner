@@ -1,0 +1,3 @@
+GPLv3
+GPLv2
+CC
